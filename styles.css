@@ -1,2 +1,7 @@
-
 /* Your CSS Code here. */
+/* Apply styles to the h1 element (your name) */
+h1 {
+    color: #333; /* Text color */
+}
+
+
